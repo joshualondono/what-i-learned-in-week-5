@@ -13,7 +13,7 @@
 
 ---
 
-__GetInput__
+__getInput__
 
 ~~~~
 function getInput(n) {
