@@ -9,8 +9,7 @@
 
 ### Javascript
 
-1. Terminal apps
-2. 
+1. Terminal apps 
 
 ---
 
